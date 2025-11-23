@@ -5,8 +5,6 @@ apd-pcdnwxnat.teg.tencent-cloud.net
 szlong.weixin.qq.com
 apd-pcdnwxstat.teg.tencent-cloud.net
 wximg.wxs.qq.com
-##DeepL
-s.deepl.com
 ##Google
 csp.withgoogle.com
 ##Cloudflare
@@ -19,6 +17,5 @@ pc-mon.zijieapi.com
 amdc.alipay.com
 trade-acs.m.taobao.com
 atoken.m.taobao.com
-h-adashx.ut.taobao.com
 ossgw.alicdn.com
 mum.alibabachengdun.com
