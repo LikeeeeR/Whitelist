@@ -13,9 +13,11 @@ a.nel.cloudflare.com
 tnc3-alisc1.zijieapi.com
 mcs.zijieapi.com
 pc-mon.zijieapi.com
+tnc0-alisc1.zijieapi.com
 ##淘宝、支付宝
 amdc.alipay.com
 trade-acs.m.taobao.com
 atoken.m.taobao.com
 ossgw.alicdn.com
 mum.alibabachengdun.com
+
