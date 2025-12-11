@@ -20,4 +20,7 @@ trade-acs.m.taobao.com
 atoken.m.taobao.com
 ossgw.alicdn.com
 mum.alibabachengdun.com
+##ip138
+2025.ip138.com
+
 
