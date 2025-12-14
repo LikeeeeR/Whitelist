@@ -26,3 +26,4 @@ policy.jd.com
 blackhole.m.jd.com
 dns.jd.com
 *.jdcdn.com
+ccc-x.jd.com
