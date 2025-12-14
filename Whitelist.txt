@@ -22,5 +22,11 @@ ossgw.alicdn.com
 mum.alibabachengdun.com
 ##ip138
 2025.ip138.com
-
-
+##京东
+waapdg.jd.com
+ex.m.jd.com
+mars.jd.com
+uranus.jd.com
+policy.jd.com
+blackhole.m.jd.com
+dns.jd.com
